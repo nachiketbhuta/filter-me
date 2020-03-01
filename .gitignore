@@ -1,0 +1,3 @@
+hackit2.0-server/hackit-env
+.elasticbeanstalk/
+hackit2.0-server/*.pyc

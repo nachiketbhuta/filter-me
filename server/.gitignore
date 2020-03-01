@@ -1,0 +1,10 @@
+hackit-env/
+*.pyc
+.vscode/
+scrape.http
+__pycache__/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+aws-keys.txt
